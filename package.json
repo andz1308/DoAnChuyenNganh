@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Thangnguyen0307/RagDB-BE.git"
+    "url": "https://github.com/andz1308/DoAnChuyenNganh.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Thangnguyen0307/RagDB-BE/issues"
+    "url": "https://github.com/andz1308/DoAnChuyenNganh/issues"
   },
-  "homepage": "https://github.com/Thangnguyen0307/RagDB-BE#readme",
+  "homepage": "https://github.com/andz1308/DoAnChuyenNganh#readme",
   "dependencies": {
     "@types/bcrypt": "^6.0.0",
     "bcrypt": "^6.0.0",
